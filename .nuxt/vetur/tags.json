@@ -1,0 +1,14 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "MakeAdSafeHero": {
+    "description": "Auto imported from components/make-ad-safe/Hero.vue"
+  },
+  "MakeAdSafeServices": {
+    "description": "Auto imported from components/make-ad-safe/Services.vue"
+  }
+}

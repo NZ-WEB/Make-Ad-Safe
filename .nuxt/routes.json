@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "D:\\\\Projects\\\\Make-ad-safe\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_07bb476c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Projects\\\\Make-ad-safe\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_181db7e4"
+  }
+]
