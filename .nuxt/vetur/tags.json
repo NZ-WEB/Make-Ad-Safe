@@ -1,0 +1,23 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "MiolinksChoose": {
+    "description": "Auto imported from components/miolinks/Choose.vue"
+  },
+  "MiolinksHero": {
+    "description": "Auto imported from components/miolinks/Hero.vue"
+  },
+  "MiolinksInfo": {
+    "description": "Auto imported from components/miolinks/Info.vue"
+  },
+  "MiolinksPlans": {
+    "description": "Auto imported from components/miolinks/Plans.vue"
+  },
+  "MiolinksStrongSides": {
+    "description": "Auto imported from components/miolinks/StrongSides.vue"
+  }
+}
