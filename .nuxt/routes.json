@@ -1,0 +1,23 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "D:\\\\Projects\\\\Make-ad-safe-meoLinks\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_ff410b02"
+  },
+  {
+    "name": "miolinks",
+    "path": "/miolinks",
+    "component": "D:\\\\Projects\\\\Make-ad-safe-meoLinks\\\\pages\\\\miolinks.vue",
+    "chunkName": "pages/miolinks",
+    "_name": "_4c11971e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Projects\\\\Make-ad-safe-meoLinks\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_276cd892"
+  }
+]

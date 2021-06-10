@@ -1,0 +1,50 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "HomepageAbout": {
+    "description": "Auto imported from components/homepage/About.vue"
+  },
+  "HomepageCalculating": {
+    "description": "Auto imported from components/homepage/Calculating.vue"
+  },
+  "HomepageCallToAction": {
+    "description": "Auto imported from components/homepage/CallToAction.vue"
+  },
+  "HomepageChoosing": {
+    "description": "Auto imported from components/homepage/Choosing.vue"
+  },
+  "HomepageGraphs": {
+    "description": "Auto imported from components/homepage/Graphs.vue"
+  },
+  "HomepageHero": {
+    "description": "Auto imported from components/homepage/Hero.vue"
+  },
+  "HomepageInfo": {
+    "description": "Auto imported from components/homepage/Info.vue"
+  },
+  "HomepagePartners": {
+    "description": "Auto imported from components/homepage/Partners.vue"
+  },
+  "HomepagePlans": {
+    "description": "Auto imported from components/homepage/Plans.vue"
+  },
+  "MiolinksChoose": {
+    "description": "Auto imported from components/miolinks/Choose.vue"
+  },
+  "MiolinksHero": {
+    "description": "Auto imported from components/miolinks/Hero.vue"
+  },
+  "MiolinksInfo": {
+    "description": "Auto imported from components/miolinks/Info.vue"
+  },
+  "MiolinksPlans": {
+    "description": "Auto imported from components/miolinks/Plans.vue"
+  },
+  "MiolinksStrongSides": {
+    "description": "Auto imported from components/miolinks/StrongSides.vue"
+  }
+}
