@@ -1,0 +1,23 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "AccountsCallToAction": {
+    "description": "Auto imported from components/accounts/CallToAction.vue"
+  },
+  "AccountsFeatures": {
+    "description": "Auto imported from components/accounts/Features.vue"
+  },
+  "AccountsHero": {
+    "description": "Auto imported from components/accounts/Hero.vue"
+  },
+  "AccountsPayment": {
+    "description": "Auto imported from components/accounts/Payment.vue"
+  },
+  "AccountsResources": {
+    "description": "Auto imported from components/accounts/Resources.vue"
+  }
+}
